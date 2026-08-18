@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("img/background.png") no-repeat;
+    background:   linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url("img/background.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
