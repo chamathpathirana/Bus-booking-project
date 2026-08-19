@@ -43,7 +43,7 @@ LEFT SIDE
 }
 
 
-/* INPUT BOX */
+/* -----------Input box tika------- */
 
 .input-box {
     margin-bottom: 18px;
@@ -71,7 +71,7 @@ LEFT SIDE
 }
 
 
-/* SIGN UP BUTTON */
+/*------- SIGN UP BUTTON eka ------*/
  
 .signup-btn {
     width: 100%;
@@ -92,7 +92,7 @@ LEFT SIDE
 }  
 
 
-/* LOGIN */
+/*----login kalla-------*/
 
 .login-text {
     text-align: center;
@@ -134,9 +134,7 @@ LEFT SIDE
 } 
 
 
-
-
-/* @media (max-width: 767px) {
+ @media (max-width: 767px) {
 
     .signup-left {
         min-height: 100vh;
@@ -154,4 +152,4 @@ LEFT SIDE
     .image-side {
         display: none;
     }
-}  */
+}  
