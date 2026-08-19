@@ -9,15 +9,15 @@ body {
     font-family: Arial, sans-serif;
     background: #f5f7fa;
 }
-/*
+
 .signup-page {
     min-height: 100vh;
     margin: 0;
 }
 
 
-/* LEFT SIDE */
-/* 
+LEFT SIDE
+
 .signup-left {
     display: flex;
     justify-content: center;
@@ -45,10 +45,10 @@ body {
 
 /* INPUT BOX */
 
-/* .input-box {
+.input-box {
     margin-bottom: 18px;
 }
-
+/*
 .input-box label {
     display: block;
     font-weight: 600;
