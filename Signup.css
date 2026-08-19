@@ -48,7 +48,7 @@ LEFT SIDE
 .input-box {
     margin-bottom: 18px;
 }
-/*
+
 .input-box label {
     display: block;
     font-weight: 600;
@@ -57,13 +57,14 @@ LEFT SIDE
 
 .input-box input {
     width: 100%;
-    padding: 13px 15px;
-    border: 1px solid #ccc;
+    padding: 12px 15px;
+    border: 1px solid #747070;
     border-radius: 8px;
     outline: none;
     font-size: 15px;
 }
-
+ 
+/*
 .input-box input:focus {
     border-color: #0d6efd;
 } */
