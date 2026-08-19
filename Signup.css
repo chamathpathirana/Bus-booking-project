@@ -64,14 +64,15 @@ LEFT SIDE
     font-size: 15px;
 }
  
-/*
+
 .input-box input:focus {
     border-color: #0d6efd;
-} */
+    
+}
 
 
 /* SIGN UP BUTTON */
-/* 
+ 
 .signup-btn {
     width: 100%;
     padding: 13px;
@@ -85,9 +86,10 @@ LEFT SIDE
     margin-top: 8px;
 }
 
-.signup-btn:hover {
+
+ .signup-btn:hover {
     background: #0b5ed7;
-} */
+}  
 
 
 /* LOGIN */
