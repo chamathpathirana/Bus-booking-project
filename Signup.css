@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+ 
 }
 
 
@@ -16,7 +17,7 @@ body {
 }
 
 
-LEFT SIDE
+ /* ------left side---------  */
 
 .signup-left {
     display: flex;
@@ -71,7 +72,7 @@ LEFT SIDE
 }
 
 
-/*------- SIGN UP BUTTON eka ------*/
+/*------- Sign up button eka ------*/
  
 .signup-btn {
     width: 100%;
@@ -119,7 +120,7 @@ LEFT SIDE
     cursor: pointer;
 }
 
-
+/*---------right side img eka--------*/
 
 .image-side {
      padding: 0 !important;
@@ -132,9 +133,9 @@ LEFT SIDE
     object-fit: cover;
     display: block;
 } 
+ /*-------phone ekedi pennan vidiya adaala kotasa------*/
 
-
- @media (max-width: 767px) {
+ /* @media (max-width: 767px) {
 
     .signup-left {
         min-height: 100vh;
@@ -152,4 +153,4 @@ LEFT SIDE
     .image-side {
         display: none;
     }
-}  
+}   */
