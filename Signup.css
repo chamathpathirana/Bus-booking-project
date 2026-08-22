@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+
  
 }
 
@@ -9,6 +11,7 @@
 body {
     font-family: Arial, sans-serif;
     background: #f5f7fa;
+    fon
 }
 
 .signup-page {
@@ -85,6 +88,7 @@ body {
     font-weight: bold;
     cursor: pointer;
     margin-top: 8px;
+    
 }
 
 
