@@ -11,7 +11,7 @@
 body {
     font-family: Arial, sans-serif;
     background: #f5f7fa;
-    fon
+    
 }
 
 .signup-page {
@@ -136,25 +136,6 @@ body {
     height: 100vh;
     object-fit: cover;
     display: block;
+
 } 
- /*-------phone ekedi pennan vidiya adaala kotasa------*/
 
- /* @media (max-width: 767px) {
-
-    .signup-left {
-        min-height: 100vh;
-        padding: 30px 20px;
-    }
-
-    .signup-form {
-        width: 100%;
-    }
-
-    .signup-form h1 {
-        font-size: 28px;
-    }
-
-    .image-side {
-        display: none;
-    }
-}   */
